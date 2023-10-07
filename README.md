@@ -1,7 +1,8 @@
 # Website
 
 
-<!DOCTYPE html>
+
+      <!DOCTYPE html>
 <html lang="en">
 <head>
     
@@ -10,6 +11,7 @@
 <body>
     <form action="usermessage.html">
         <fieldset>
+            <legend>Personal Details</Details></legend>
         <label for="FName">FName</label>
         <input type="text"  required placeholder="Ex:sachin" id="Fname" name="Fname">
        <br><br>
